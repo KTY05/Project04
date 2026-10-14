@@ -4,3 +4,4 @@ Team Leader: 20251039
 Project 04 version1 completed
 
 2nd Team Member: 이상현
+2nd Team Member: 20221059
